@@ -23,8 +23,9 @@ Predict diamond price using Regression Model (XGBoost) and Forecasting technique
 https://github.com/TieuDiem/Diamond-Price-Prediction.git
 ```
 2. Retrain Regression model
-3. Retrain RNN, LSTM, Bidirectional LSTM, DLiear, NLinear
+3. Retrain RNN, LSTM, Bidirectional LSTM, DLiearModel, NLinearModel, NBEATSModel, NHiTSModel
 4. Run Streamlit
 ```
 Streamlit run streamlit.py
+Streamlit run app.py
 ```
